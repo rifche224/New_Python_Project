@@ -1,0 +1,16 @@
+dictionary={
+    'Walk':1,
+    'Bus': 2,
+     'Bureau': 3,
+     'Restaurant': 4,
+     'Domicile': 5,
+     'Vélo': 6,
+     'Voiture': 7,
+     'Magasin': 8,
+     'Métro': 9,    
+     'Gare': 10,
+     'Motorcycle': 11,
+     'Running': 12,
+     'Parc':13,
+    
+}
